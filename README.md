@@ -18,12 +18,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🖥️ Demonstração
-
-![](https://i.imgur.com/7aHblzc.png)   
-
-- Você pode acessar o projeto clicando <a href="https://instagram-dio-rho.vercel.app/">aqui</a>.
-
 ---
 
 ### 📝 Licença
@@ -31,5 +25,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
 
 ---
-
-Criado com 💙 por [Maria Emília](https://github.com/lellismaria)
